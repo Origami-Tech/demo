@@ -951,3 +951,12 @@ color: white;
 .contact-section .org-contact-form form button {
     background-color: var(--blue-logo-color);
 }
+
+@media(max-width:364px){
+    .get_startedbutton a:nth-child(1) {
+    font-size: 12px;
+}
+        .get_startedbutton a:nth-child(2) {
+    font-size: 12px;
+}
+}
